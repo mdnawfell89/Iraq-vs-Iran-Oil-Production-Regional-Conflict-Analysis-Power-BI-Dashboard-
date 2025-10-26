@@ -1,0 +1,146 @@
+date,year,location,side_b
+12/31/61,1970,Iraq,KDP
+12/31/61,1973,Iraq,KDP
+12/31/61,1974,Iraq,KDP
+04/11/72,1974,"Iran, Iraq",Government of Iraq
+12/31/61,1975,Iraq,KDP
+12/31/76,1976,Iraq,PUK
+12/31/77,1977,Iraq,KDP-QM
+12/31/76,1977,Iraq,PUK
+12/31/77,1978,Iraq,KDP-QM
+12/31/76,1978,Iraq,PUK
+05/30/79,1979,Iran,APCO
+05/31/46,1979,Iran,KDPI
+12/31/61,1979,Iraq,KDP
+08/13/72,1979,Iran,MEK
+04/11/72,1980,"Iran, Iraq",Government of Iraq
+08/13/72,1980,Iran,MEK
+12/31/61,1980,Iraq,KDP
+12/31/76,1980,Iraq,PUK
+05/30/79,1980,Iran,APCO
+05/31/46,1980,Iran,KDPI
+04/11/72,1981,"Iran, Iraq",Government of Iraq
+08/13/72,1981,Iran,MEK
+12/31/61,1981,Iraq,KDP
+12/31/76,1981,Iraq,PUK
+05/31/46,1981,Iran,KDPI
+08/01/82,1982,Iraq,SCIRI
+05/31/46,1982,Iran,KDPI
+04/11/72,1982,"Iran, Iraq",Government of Iraq
+12/31/76,1982,Iraq,PUK
+12/31/61,1982,Iraq,KDP
+08/13/72,1982,Iran,MEK
+08/01/82,1983,Iraq,SCIRI
+12/31/76,1983,Iraq,PUK
+05/31/46,1983,Iran,KDPI
+12/31/61,1983,Iraq,KDP
+04/11/72,1983,"Iran, Iraq",Government of Iraq
+05/31/46,1984,Iran,KDPI
+12/31/61,1984,Iraq,KDP
+04/11/72,1984,"Iran, Iraq",Government of Iraq
+08/01/82,1984,Iraq,SCIRI
+04/11/72,1985,"Iran, Iraq",Government of Iraq
+05/31/46,1985,Iran,KDPI
+12/31/76,1985,Iraq,PUK
+04/11/72,1986,"Iran, Iraq",Government of Iraq
+08/13/72,1986,Iran,MEK
+05/31/46,1986,Iran,KDPI
+12/31/76,1986,Iraq,PUK
+12/31/61,1986,Iraq,KDP
+08/13/72,1987,Iran,MEK
+04/11/72,1987,"Iran, Iraq",Government of Iraq
+12/31/61,1987,Iraq,KDP
+08/01/82,1987,Iraq,SCIRI
+05/31/46,1987,Iran,KDPI
+12/31/76,1987,Iraq,PUK
+04/11/72,1988,"Iran, Iraq",Government of Iraq
+08/13/72,1988,Iran,MEK
+12/31/76,1988,Iraq,PUK
+05/31/46,1988,Iran,KDPI
+12/31/61,1988,Iraq,KDP
+12/31/76,1989,Iraq,PUK
+12/31/61,1989,Iraq,KDP
+05/31/46,1990,Iran,KDPI
+12/31/76,1990,Iraq,PUK
+12/31/61,1990,Iraq,KDP
+08/02/90,1990,"Iraq, Kuwait",Government of Kuwait
+08/13/72,1991,Iran,MEK
+12/31/76,1991,Iraq,PUK
+12/31/61,1991,Iraq,KDP
+08/02/90,1991,"Iraq, Kuwait",Government of Kuwait
+08/01/82,1991,Iraq,SCIRI
+12/31/76,1992,Iraq,PUK
+08/01/82,1992,Iraq,SCIRI
+08/13/72,1993,Iran,MEK
+05/31/46,1993,Iran,KDPI
+08/01/82,1993,Iraq,SCIRI
+08/01/82,1994,Iraq,SCIRI
+12/31/76,1995,Iraq,PUK
+08/01/82,1995,Iraq,SCIRI
+05/31/46,1996,Iran,KDPI
+12/31/76,1996,Iraq,PUK
+08/01/82,1996,Iraq,SCIRI
+08/13/72,1997,Iran,MEK
+08/13/72,1999,Iran,MEK
+08/13/72,2000,Iran,MEK
+08/13/72,2001,Iran,MEK
+03/20/03,2003,"Australia, Iraq, United Kingdom, United States of America",Government of Iraq
+05/17/04,2004,Iraq,IS
+12/12/03,2004,Iraq,Ansar al-Islam
+04/04/04,2004,Iraq,al-Mahdi Army
+07/26/05,2005,Iran,PJAK
+05/17/04,2005,Iraq,IS
+12/12/03,2005,Iraq,Ansar al-Islam
+10/03/04,2005,Iraq,RJF
+05/17/04,2006,Iraq,IS
+12/12/03,2006,Iraq,Ansar al-Islam
+12/31/03,2006,Iran,Jondullah
+10/03/04,2006,Iraq,RJF
+07/26/05,2006,Iran,PJAK
+12/31/03,2007,Iran,Jondullah
+05/17/04,2007,Iraq,IS
+12/12/03,2007,Iraq,Ansar al-Islam
+04/04/04,2007,Iraq,al-Mahdi Army
+10/03/04,2007,Iraq,RJF
+07/26/05,2007,Iran,PJAK
+04/04/04,2008,Iraq,al-Mahdi Army
+05/17/04,2008,Iraq,IS
+12/31/03,2008,Iran,Jondullah
+07/26/05,2008,Iran,PJAK
+05/17/04,2009,Iraq,IS
+12/31/03,2009,Iran,Jondullah
+07/26/05,2009,Iran,PJAK
+05/17/04,2010,Iraq,IS
+12/31/03,2010,Iran,Jondullah
+05/17/04,2011,Iraq,IS
+12/12/03,2011,Iraq,Ansar al-Islam
+07/26/05,2011,Iran,PJAK
+05/17/04,2012,Iraq,IS
+05/17/04,2013,Iraq,IS
+05/17/04,2014,Iraq,IS
+05/17/04,2015,Iraq,IS
+05/17/04,2016,Iraq,IS
+05/31/46,2016,Iran,KDPI
+08/15/16,2017,Iran,IS
+05/17/04,2017,Iraq,IS
+05/17/04,2018,Iraq,IS
+05/31/46,2018,Iran,KDPI
+03/19/17,2018,"Iran, Israel",Government of Israel
+07/26/05,2018,Iran,PJAK
+05/17/04,2019,Iraq,IS
+10/08/14,2019,Iran,Jaish al-Adl
+03/19/17,2019,"Iran, Israel",Government of Israel
+05/17/04,2020,Iraq,IS
+03/19/17,2020,"Iran, Israel",Government of Israel
+07/26/05,2020,Iran,PJAK
+05/17/04,2021,Iraq,IS
+07/26/05,2021,Iran,PJAK
+03/19/17,2021,"Iran, Israel",Government of Israel
+05/17/04,2022,Iraq,IS
+03/19/17,2022,"Iran, Israel",Government of Israel
+10/08/14,2023,Iran,Jaish al-Adl
+03/19/17,2023,"Iran, Israel",Government of Israel
+05/17/04,2023,Iraq,IS
+03/19/17,2024,"Iran, Israel",Government of Israel
+05/17/04,2024,Iraq,IS
+10/08/14,2024,Iran,Jaish al-Adl
